@@ -1,4 +1,4 @@
-# Daily-Calendar
+# Weather Dashboard
 
 ## Purpose:
 - I wanted to make a website where I could check the weather for the next 5 days, and save my search results, so that I wouldn't have to retype the locations I look up.
@@ -10,3 +10,5 @@
 <img src="weather-dashboard.png">
 
 ## Link to Working Webpage:
+ https://rweisshaar1.github.io/weather-app/
+ 
