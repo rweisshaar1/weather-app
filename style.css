@@ -1,0 +1,94 @@
+:root {
+  --skyblue: #87CEEB;
+  --white-smoke: #f5f5f5;
+  --outLine: rgb(18, 127, 169);
+
+
+}
+
+.header {
+  text-align: center;
+  background-color: var(--skyblue);
+  color: var(--white-smoke);
+  padding: 20px;
+  font-size: 40px;
+}
+
+.searchText {
+  margin-bottom: 30px;
+  margin-right: 12px;
+}
+
+/* .col-sm {
+  outline: red 3px solid;
+}
+
+.inputBox {
+  outline: red 3px solid;
+}
+
+.container {
+  outline: red 3px solid;
+}
+
+.column {
+  outline: red 3px solid;
+} */
+
+.searchHistory {
+  margin-bottom: 30px;
+  color: white;
+  background-color: #a0a0a0;
+  margin-right: 60px;
+  margin-left: 60px;
+  font-size: medium;
+  padding: 10px;
+  border-radius: 20px;
+  outline: var(--outLine) 3px solid;
+}
+
+.searchHistory:hover {
+  background-color: #717171;
+  color: black;
+}
+
+#weather {
+  /* margin-left: 20px;
+  padding: 20px; */
+  list-style-type: none;
+}
+
+.cityName {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.cityMain {
+  /* outline:  red 3px solid;  */
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.tempMain {
+  font-weight: normal;
+  list-style-type: none;
+  font-size: medium;
+}
+
+.windMain {
+  font-weight: normal;
+  list-style-type: none;
+  font-size: medium;
+}
+
+/* .row-flex {
+  outline: red solid 3px;
+} */
+
+.card-text {
+  list-style-type: none;
+}
+
+#fiveDay {
+  margin-left: 20px;
+}
